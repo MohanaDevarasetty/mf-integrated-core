@@ -1,0 +1,12 @@
+{
+  "name": "integrated-core",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve -s -l 90"
+  },
+  "author": "Mohana Devarasetty",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^11.1.0"
+  }
+}
